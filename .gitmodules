@@ -1,1 +1,7 @@
 
+[submodule "ThirdParty/vulkan"]
+	path = ThirdParty/vulkan
+	url = https://github.com/KhronosGroup/Vulkan-Headers.git
+[submodule "ThirdParty/glfw"]
+	path = ThirdParty/glfw
+	url = https://github.com/MadLadSquad/glfw.git
