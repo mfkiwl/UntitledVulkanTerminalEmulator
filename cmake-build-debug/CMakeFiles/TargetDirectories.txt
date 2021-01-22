@@ -1,2 +1,0 @@
-/home/i-use-gentoo-btw/Desktop/UntitledVulkanTerminalEmulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/i-use-gentoo-btw/Desktop/UntitledVulkanTerminalEmulator/cmake-build-debug/CMakeFiles/edit_cache.dir
