@@ -1,6 +1,1 @@
-[submodule "ThirdParty/glfw"]
-	path = ThirdParty/glfw
-	url = https://github.com/MadLadSquad/glfw.git
-[submodule "ThirdParty/glew"]
-	path = ThirdParty/glew
-	url = https://github.com/MadLadSquad/glew.git
+
